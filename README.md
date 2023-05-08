@@ -1,2 +1,2 @@
 # nas-toolset
-self-written nas toolset for privare use
+self-written nas toolset for private use
